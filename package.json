@@ -1,0 +1,11 @@
+{
+  "name": "node-math",
+  "version": "1.0.0",
+  "description": "A great package",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
